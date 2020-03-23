@@ -65,5 +65,5 @@ def naming_system
    }
  }
 }
- domain
+ family
 end
