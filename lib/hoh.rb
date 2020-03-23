@@ -59,8 +59,11 @@ def naming_system
             }
           }
         }
+      }
     }
   }
+ }
+
 
   return domain
 end
