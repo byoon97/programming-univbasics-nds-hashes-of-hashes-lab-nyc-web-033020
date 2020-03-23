@@ -62,5 +62,5 @@ def naming_system
     }
   }
 
-  domain
+  return domain
 end
