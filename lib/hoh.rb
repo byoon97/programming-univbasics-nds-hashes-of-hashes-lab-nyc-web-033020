@@ -57,12 +57,12 @@ def naming_system
                   label: "Species",
                   sub_category: nil
             }
+           }
           }
+         }
         }
+       }
       }
-    }
-  }
- }
 
 
   return domain
